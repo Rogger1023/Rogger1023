@@ -1,7 +1,7 @@
 ### Saudações meu nome é Rogger Samuel!! 👋
 Estou aqui para aprender! </br>
 Futuro desenvolvedor Web! </br>
-Trabalho atualmente em meu projeto pessoal que inclui as linguagens HTML, CSS e Javascript.
+Trabalho atualmente em meus projetos pessoais que inclui as linguagens HTML, CSS e Javascript.
 
 <div>
   <a href="https://github.com/rogger1023">
