@@ -1,7 +1,7 @@
 ### Saudações meu nome é Rogger Samuel!! 👋
 Estou aqui para aprender! </br>
 desenvolvedor FrontEnd! </br>
-Trabalho atualmente em meus projetos pessoais que inclui as linguagens react,JS e Figma.
+Trabalho atualmente em meus projetos pessoais que inclui as linguagens react,JS e Figma.<br>
 Faço uns freela por ai tambem!!
 
 <div>
