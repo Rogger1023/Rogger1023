@@ -1,7 +1,6 @@
 ### Saudações meu nome é Rogger Samuel!! 👋
-Estou aqui para aprender! </br>
 desenvolvedor FrontEnd! </br>
-Trabalho atualmente em meus projetos pessoais que inclui as linguagens react,JS e Figma.<br>
+Trabalho atualmente em meus projetos pessoais que inclui as linguagens Vue,JS e Figma.<br>
 Faço uns freela por ai tambem!!
 
 <div>
@@ -10,7 +9,7 @@ Faço uns freela por ai tambem!!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogger1023&layout=compact&langs_count=7&theme=dracula"/>
 </div>
  <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Rogger-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rogger-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/vue-original.svg">
   <img align="center" alt="Rogger-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rogger-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rogger-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
